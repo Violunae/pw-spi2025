@@ -1,0 +1,5 @@
+database.host=localhost
+database.port=5432
+api.timeout=30
+api.retry=3
+cache.enabled=true
